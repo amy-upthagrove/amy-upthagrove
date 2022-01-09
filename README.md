@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amyupthagrove?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famyupthagrove&screen_name=amyupthagrove)
 
-## I'm an experience AV engineer shifting into a web development career path
+## I'm an experienced AV engineer shifting into a web development career path
 
 - 🔭 I just started a Software Development Apprenticeship Program
 - 🌱 I’m currently learning HTML, CSS, JavaScript, & React 🤣
