@@ -9,7 +9,7 @@
 - 🌻 I’m currently mastering HTML, CSS, JavaScript, & React
 - ✨ I'm currently working on a #100DaysOfCode project to reinforce what I'm learning in my apprenticeship
 - 👯 I’m looking to connect with other tech professionals new to coding
-- 🥅 2022 Goals: Master the basics of JS & React so I can start tackling higher level OOP languag
+- 🥅 2022 Goals: Build out a portfolio of projects to demonstrate my progress as my coding skills increase.
 - ⚡ Fun fact: I'm obsessed with music, particularly punk & jazz
 
 ### Connect with me:
